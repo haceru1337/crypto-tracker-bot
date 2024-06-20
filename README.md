@@ -13,4 +13,5 @@ npm install
 Create a .env file in the root of the project and add your Discord bot token:
 DISCORD_TOKEN=your_discord_bot_token
 Run the bot:
-node index.js```
+node index.js
+```

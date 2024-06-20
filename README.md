@@ -5,7 +5,7 @@ A Discord bot for tracking cryptocurrency prices in real-time using CoinGecko AP
 ## Setup
  ```
  Clone the repository:
-git clone https://github.com/your-username/crypto-tracker-bot.git
+git clone https://github.com/haceru1337/crypto-tracker-bot.git
 cd crypto-tracker-bot
 
 Install the dependencies:
